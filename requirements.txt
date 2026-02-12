@@ -1,0 +1,25 @@
+# ---------- Google Earth Engine ----------
+earthengine-api
+
+# ---------- Geospatial / Raster ----------
+rasterio
+geopandas
+shapely
+pyproj
+fiona
+
+# ---------- Scientific Computing ----------
+numpy
+scipy
+scikit-image
+pandas
+
+# ---------- Machine Learning / Deep Learning ----------
+torch
+
+# ---------- Visualization (optional but useful) ----------
+matplotlib
+
+# ---------- Utilities ----------
+tqdm
+joblib
